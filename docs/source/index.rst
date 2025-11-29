@@ -11,4 +11,5 @@
 
    math/index
    computer_science/index
+   electricity/index
    
