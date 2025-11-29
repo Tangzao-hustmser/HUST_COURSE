@@ -7,3 +7,4 @@
 
    dianlixue
    analogcircuit
+   digitalcircuit
