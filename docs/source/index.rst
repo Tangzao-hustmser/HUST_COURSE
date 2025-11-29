@@ -9,8 +9,13 @@
    :maxdepth: 2
    :caption: 课程目录
 
-
    computer_science/index
    electricity/index
    mathmatics/index
    open_courses/index
+   ideological_politics/index
+   public_elective/index
+   professional_elective/index
+   science/index
+   electrical/index
+   information/index
