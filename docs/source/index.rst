@@ -13,3 +13,4 @@
    computer_science/index
    electricity/index
    mathmatics/index
+   open_courses/index
