@@ -33,7 +33,7 @@
 - 🐛 **遇到问题？** 请在 `Issues <https://github.com/minggong6/HUST_COURSE/issues>`_ 中反馈。
 - 💬 **想聊聊？** 欢迎来 `Discussions <https://hustdian.feishu.cn/wiki/K2w0w446CiEbpVksQdOcoFJLnbe?from=from_copylink>`_ 交流心得。
 如果暂时不会使用GitHub也想对某一门课程进行评价，也非常欢迎在这个飞书云文档里直接编辑上传关于某一门课程的经验分享，大家直接自己创建一个子页面贴上自己的链接即可，有空我会进行整理
-`点我<https://hustdian.feishu.cn/wiki/C2hOw5VUciaoWAkAdYCcnM4Nnrd?from=from_copylink>`_
+`点我 <https://hustdian.feishu.cn/wiki/C2hOw5VUciaoWAkAdYCcnM4Nnrd?from=from_copylink>`_
 
 在这里收集了历年试卷、复习资料和学长学姐的考试经验。
 
