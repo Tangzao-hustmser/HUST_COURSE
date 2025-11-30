@@ -27,11 +27,13 @@
 
 但是我一个人的力量是有限的，非常非常希望能有更多的uu也参与进来，完善整个项目。
 
-现在只是完成了框架搭建，但是内容尚未填写完毕，欢迎大家 **Fork**这个项目，添加你所掌握的课程资料，提交 **Pull Request**，让更多的同学受益！
+现在只是完成了框架搭建，但是内容尚未填写完毕，欢迎大家 **Fork** 这个项目，添加你所掌握的课程资料，提交 **Pull Request** ，让更多的同学受益！
 具体的贡献方式请参考 `README <https://github.com/minggong6/HUST_COURSE/blob/main/README.md>`_
 
 - 🐛 **遇到问题？** 请在 `Issues <https://github.com/minggong6/HUST_COURSE/issues>`_ 中反馈。
-- 💬 **想聊聊？** 欢迎来 `Discussions <https://github.com/minggong6/HUST_COURSE/discussions>`_ 交流心得。
+- 💬 **想聊聊？** 欢迎来 `Discussions <https://hustdian.feishu.cn/wiki/K2w0w446CiEbpVksQdOcoFJLnbe?from=from_copylink>`_ 交流心得。
+如果暂时不会使用GitHub也想对某一门课程进行评价，也非常欢迎在这个飞书云文档里直接编辑上传关于某一门课程的经验分享，大家直接自己创建一个子页面贴上自己的链接即可，有空我会进行整理
+`点我<https://hustdian.feishu.cn/wiki/C2hOw5VUciaoWAkAdYCcnM4Nnrd?from=from_copylink>`_
 
 在这里收集了历年试卷、复习资料和学长学姐的考试经验。
 
