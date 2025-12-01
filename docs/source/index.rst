@@ -46,14 +46,15 @@
    :maxdepth: 2
    :caption: 课程目录
 
-   
    guidebook/index
    mathmatics/index
    science/index
-   open_courses/index
    ideological_politics/index
-   public_elective/index
-   professional_elective/index
-   electrical/index
+   general_education/index
    information/index
+   electrical/index
+   professional_elective/index
+   practice/index
+   public_elective/index
+   open_course/index
    
