@@ -1,20 +1,25 @@
 复变函数
 ============================
 
-**课程简介**
 
-**授课老师**：
-**给分情况**：平时分 30% + 期末 70%，老师很nice，不点名。
-
-考试经验
+课程信息
 --------
-选择题比较细，建议多看书上的概念。
+**给分情况**：平时分 30% + 期末 70%
+速通指南
+--------
+* **是否可以速通**: 是，考前突击3天即可，与线代类似
+* 
+* **推荐资源**: 
+华科杨志鸿老师制作邪修视频，据说25年会更新完整版，但我们这届ldx似乎没这个福气了
+* `复变邪修视频 by讲台上的1900  <https://www.bilibili.com/video/BV14ZUkBWEQL/>`_
+
+课程评价
+--------
+* “课程不难，刷两天题即可，题型比较固定。”
 
 资料下载
 --------
-* :download:`复变串讲ppt <../../复变函数/ppt.pptx>`
-* :download:`复变串讲ppt <../../复变函数/复变串讲by董嘉城.pdf>`
-* :download:`复变练习册答案合集 <../../复变函数/复变练习册答案合集.pdf>`
+
 * `复变串讲ppt <https://raw.githubusercontent.com/minggong6/HUST_COURSE/main/复变函数/ppt.pptx>`_
 * `复变串讲by董嘉城 <https://raw.githubusercontent.com/minggong6/HUST_COURSE/main/复变函数/复变串讲by董嘉城.pdf>`_
 * `复变练习册答案合集 <https://raw.githubusercontent.com/minggong6/HUST_COURSE/main/复变函数/复变练习册答案合集.pdf>`_
